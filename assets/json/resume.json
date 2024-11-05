@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Hassan Zakie Yusoff",
+    "label": "Astrophysicist, Programmer, Teacher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hassanzakieyusoff@gmail.com",
+    "phone": "+6011-1280 5043",
+    "url": "https://hassanzakie75.github.io/",
+    "summary": "Computational Astrophysicist. Proven ability to apply advanced programming and data analysis techniques to solve complex astrophysical problems. Passionate about sharing knowledge and inspiring the next generation of scientists. Seeking a challenging role to leverage my skills in python and contribute to cutting-edge research. ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "No 42, Jalan USJ 6/4g, USJ 6,",
+      "postalCode": "47610",
+      "city": "Subang Jaya",
+      "countryCode": "MY",
+      "region": "Selangor"
     },
     "profiles": [
       {
@@ -24,41 +24,42 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Fairview International School Subang Jaya Campus",
+      "position": "MYP Teacher || Subject: Physics, Mathematics, Science || Science Lab Technician ",
+      "url": "https://fairview.edu.my/our-campuses/subang-jaya/",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "summary": "Teaching sciences and physics for MYP students using International Baccalaureate syllabus. Preparing the syllabus on a quarterly basis for MYP4 physics and MYP sciences. Preparing question and exam questions for MYP sciences syllabus. Preparing samples, adhering to procedures and safety guidelines, documenting activities, and maintaining equipment.
+ ",
+      "highlights": ["Physics, Math, Science"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
+      "organization": "Great Heart Charity",
+      "location": "Kota Kemuning, Shah Alam",
+      "position": "Volunteer",
+      "url": "https://www.greatheartcharity.org.my/",
+      "startDate": "2022-02-22",
       "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "summary": "Participated in community service initiatives focused on aiding the less fortunate and environmental conservation. Duties included assisted in purchasing and distributing groceries to families in need and Contributed to the beautification of public spaces by cleaning parks and beaches.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University Of Malaya, Kuala Lumpur, Malaysia",
+      "location": "Kuala Lumpur, Malaysia",
+      "url": "https://www.um.edu.my/",
+      "area": "Applied Physics",
+      "studyType": "Master of Science in Applied Physics",
+      "startDate": "2017-09-03",
+      "endDate": "2019-02-01",
+      "score": "3.84",
+      "courses": ["Applied Physics"]
     }
   ],
-  "awards": [
+  "awards": [Graduated with Distinction
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
